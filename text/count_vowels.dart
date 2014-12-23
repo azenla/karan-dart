@@ -1,0 +1,1 @@
+const List<String> VOWELS = const ["a", "e", "i", "o", "u"];
